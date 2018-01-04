@@ -16,4 +16,5 @@ You can see the work in progress here: http://kaylatab.pythonanywhere.com/
 ## Acknowledgments
 
 * [DjangoGirls!](https://tutorial.djangogirls.org/en/) 
+* [Bob Ross Lorem Ipsum](http://www.bobrosslipsum.com/)
 
