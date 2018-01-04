@@ -1,5 +1,7 @@
 # Django Blog
 
+![Alt text](https://i.imgur.com/9WYOy2N.png "Screenshot of app")
+
 A blog web application using Python and Django, created following the fantastic DjangoGirls tutorial.
 
 You can see the work in progress here: http://kaylatab.pythonanywhere.com/
